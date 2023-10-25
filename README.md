@@ -1,2 +1,0 @@
-# formationgit
-init from local 
